@@ -1,0 +1,6 @@
+-r requirements/production.txt
+
+pandas~=2.2.3
+numpy~=2.2.4
+redis~=5.2.1
+requests~=2.32.3
